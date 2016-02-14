@@ -1,6 +1,6 @@
 # ch1
 
-Solutions to exercises from Chapter 1
+Tutorial exercises from Chapter 1
 
 ---
 
