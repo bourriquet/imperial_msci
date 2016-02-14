@@ -6,4 +6,4 @@ This repository contains tutorials, courseworks, past exams and other practice m
 
 #### [python](python)
 
-- Tutorials for _3.08 Programming for Geoscientists (Yr2)_
+- Tutorials for _3.08 Programming for Geoscientists (Yr2)_.
