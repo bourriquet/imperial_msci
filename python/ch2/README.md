@@ -20,4 +20,6 @@ Tutorial exercises from Chapter 2
 
 **Exercise 8 (2.14)**: [compute_sum_for.py](compute_sum_for.py)
 
+**Exercise 9 (2.24)**: [compute_sum_func.py](compute_sum_func.py)
 
+**Exercise 10 (2.42)**: [maxmin_list.py](maxmin_list.py)
