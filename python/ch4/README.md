@@ -1,5 +1,5 @@
 # ch4
 
-Tutorials from Chapter 4
+Tutorial exercises from Chapter 4
 
 ---
