@@ -1,8 +1,8 @@
 from math import pi
 
-h = 5.0 #height
-b = 2.0 #base
-r = 1.5 #radius
+h = 5.0         #height
+b = 2.0         #base
+r = 1.5         #radius
 
 area_parallelogram = h * b
 print "The area of the parallelogram is %.3f" %(area_parallelogram)
