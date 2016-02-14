@@ -14,3 +14,6 @@ __Issues__:
 **Exercise 3 (4.3)**: [fill_arrays_vectorised.py](fill_arrays_vectorised.py)
 
 **Exercise 4 (4.4)**: [vector_function.py](vector_function.py)
+
+**Exercise 5 (4.10)**: [plot_trajectory.py](plot_trajectory.py)
+
