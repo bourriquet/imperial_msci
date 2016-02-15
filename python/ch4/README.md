@@ -17,3 +17,7 @@ __Issues__:
 
 **Exercise 5 (4.10)**: [plot_trajectory.py](plot_trajectory.py)
 
+**Exercise 6 (4.21)**: [plotf_v1.py](plotf_v1.py)
+
+**Exercise 7 (4.22)**: [plotf.py](plotf.py)
+
