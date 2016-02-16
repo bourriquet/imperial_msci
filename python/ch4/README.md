@@ -3,7 +3,8 @@
 Tutorial exercises from Chapter 4
 
 __Issues__:
-- My answer to Exercise 4 does not do the vector computation as required
+- Exercise 4 does not do the vector computation as required
+- Exercise 8 does not compute the array expression as required
 
 ---
 
@@ -21,3 +22,4 @@ __Issues__:
 
 **Exercise 7 (4.22)**: [plotf.py](plotf.py)
 
+**Exercise 8 (4.28)**: [array.py](array.py)
