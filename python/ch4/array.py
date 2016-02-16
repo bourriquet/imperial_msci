@@ -1,6 +1,4 @@
 from numpy import *
-import matplotlib.pyplot as plt
-import sys
 
 A = [[0,12,-1],[-1,-1,-1],[11,5,5]]
 B = zeros([3,3])
