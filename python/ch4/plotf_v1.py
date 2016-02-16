@@ -1,4 +1,3 @@
-from math import tan, cos
 from numpy import *
 import matplotlib.pyplot as plt
 import sys
