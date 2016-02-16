@@ -5,5 +5,3 @@ def f(x):
 
 x = linspace(-4,4,101)
 h = f(x)
-
-print x, h
