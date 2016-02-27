@@ -1,6 +1,6 @@
-# ch2
+# tut2
 
-Tutorial exercises from Chapter 2
+Tutorial exercises from Chapter 2 of the course.
 
 ---
 
