@@ -1,6 +1,6 @@
 # tut2
 
-Tutorial exercises from Chapter 2 of the course.
+Tutorial exercises from Chapter 2 of the course. All programs tested using _Python 2.7.11_.
 
 ---
 
