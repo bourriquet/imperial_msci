@@ -2,7 +2,7 @@
 
 Tutorial exercises from Chapter 4 of the course.
 
-__Issues__:
+__Current issues__:
 - Exercise 4 does not do the vector computation as required
 - Exercise 8 does not compute the array expression as required
 
