@@ -1,6 +1,6 @@
 # tut4
 
-Tutorial exercises from Chapter 4 of the course.
+Tutorial exercises from Chapter 4 of the course. All programs tested using _Python 2.7.11_.
 
 __Current issues__:
 - Exercise 4 does not do the vector computation as required
